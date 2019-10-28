@@ -1,8 +1,8 @@
 car:
-  brand: bmw
-  type: X5
-  price: 50000$
-  color: red
+  brand: BYD
+  type: song
+  price: 10000$
+  color: white
   category: suv
 server:
   port: 8088
