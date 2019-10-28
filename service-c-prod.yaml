@@ -1,8 +1,8 @@
 car:
-  brand: BYD
-  type: song
+  brand: toyota
+  type: corolla
   price: 10000$
   color: white
-  category: suv
+  category: jiaoche
 server:
   port: 8088
